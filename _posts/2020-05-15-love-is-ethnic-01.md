@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Love is Ethnic #01"
 date:   2020-05-15 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #14"
 date:   2020-03-28 11:00:00 +0100
 categories:

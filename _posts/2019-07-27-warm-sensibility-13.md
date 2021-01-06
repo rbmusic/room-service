@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #13"
 date:   2019-07-27 11:00:00 +0100
 categories:

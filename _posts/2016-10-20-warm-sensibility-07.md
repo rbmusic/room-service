@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #07"
 date:   2016-10-20 11:00:00 +0100
 categories:

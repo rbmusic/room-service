@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Color of Chill #02"
 date:   2020-03-17 11:00:00 +0100
 categories:

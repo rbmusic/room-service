@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #09"
 date:   2017-03-06 11:00:00 +0100
 categories:

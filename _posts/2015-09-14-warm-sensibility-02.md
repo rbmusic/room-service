@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #02"
 date:   2015-09-14 11:00:00 +0100
 categories:

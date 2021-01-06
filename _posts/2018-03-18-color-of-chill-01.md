@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Color of Chill #01"
 date:   2018-03-18 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #11"
 date:   2018-09-20 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Music Attraction #1604"
 date:   2016-11-11 11:00:00 +0100
 categories:

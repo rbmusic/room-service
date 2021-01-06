@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title:  "Warm Sensibility #12"
 date:   2019-02-09 11:00:00 +0100
 categories:
