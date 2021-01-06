@@ -1,0 +1,52 @@
+---
+layout: post
+---
+
+<style>
+  .player {
+    display: flex;
+    flex-direction: row;
+    background-color: #ededed;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  .cover-wrapper {
+    width: 160px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0;
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+
+  .artist {
+    color: gray;
+  }
+
+  .audioplayer {
+    width: 100%;
+    flex: 1 0;
+  }
+</style>
+
+{{ content }}
+
+<div class="player">
+  <div class="cover-wrapper">
+    <img src="{{ page.album_art | default: site.podcast.album_art }}" />
+  </div>
+  <div class="content">
+    <p class="title">{{ page.title }}</p>
+    <p class="artist">{{ page.author | default: site.podcast.author }}</p>
+    <audio class="audioplayer" controls preload="auto"><source src="{{ page.enclosure }}" /></audio>
+  </div>
+</div>
