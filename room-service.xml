@@ -6,7 +6,7 @@
     <channel>
         <title>{{ site.podcast.title }}</title>
         <description>{{ site.podcast.description | xml_escape }}</description>
-        <link>{{ site.podcast.url | absolute_url }}</link>
+        <link>{{ site.url }}</link>
         <itunes:author>{{ site.podcast.author }}</itunes:author>
         <itunes:email>{{ site.podcast.email }}</itunes:email>
         <itunes:image href='{{ site.podcast.album_art | absolute_url }}'/>
